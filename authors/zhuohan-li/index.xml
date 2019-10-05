@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhuohan Li* | Zhiqing Sun</title>
+    <link>https://www.cs.cmu.edu/~zhiqings/authors/zhuohan-li/</link>
+      <atom:link href="https://www.cs.cmu.edu/~zhiqings/authors/zhuohan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhuohan Li*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Updated: Oct. 4, 2019 ©</copyright><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.cmu.edu/~zhiqings/img/Zhiqing.png</url>
+      <title>Zhuohan Li*</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/zhuohan-li/</link>
+    </image>
+    
+    <item>
+      <title>Structured Decoding for Non-autoregressive Machine Translation</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/publication/nat/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/publication/nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/publication/macron/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/publication/macron/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

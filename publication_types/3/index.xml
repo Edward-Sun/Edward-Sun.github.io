@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Zhiqing Sun</title>
+    <link>https://www.cs.cmu.edu/~zhiqings/publication_types/3/</link>
+      <atom:link href="https://www.cs.cmu.edu/~zhiqings/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Updated: Oct. 4, 2019 ©</copyright><lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.cmu.edu/~zhiqings/img/Zhiqing.png</url>
+      <title>3</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/publication/macron/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/publication/macron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Consciousness Flow</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/publication/consiousness/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/publication/consiousness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Gap-Based Framework for Chinese Word Segmentation via Very Deep Convolutional Networks</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/publication/gap/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/publication/gap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

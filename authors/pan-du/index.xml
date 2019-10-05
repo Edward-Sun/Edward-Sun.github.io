@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pan Du | Zhiqing Sun</title>
+    <link>https://www.cs.cmu.edu/~zhiqings/authors/pan-du/</link>
+      <atom:link href="https://www.cs.cmu.edu/~zhiqings/authors/pan-du/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pan Du</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Updated: Oct. 4, 2019 ©</copyright><lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.cmu.edu/~zhiqings/img/Zhiqing.png</url>
+      <title>Pan Du</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/pan-du/</link>
+    </image>
+    
+    <item>
+      <title>DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/publication/divgraphpointer/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/publication/divgraphpointer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

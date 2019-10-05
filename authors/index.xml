@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Zhiqing Sun</title>
+    <link>https://www.cs.cmu.edu/~zhiqings/authors/</link>
+      <atom:link href="https://www.cs.cmu.edu/~zhiqings/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last Updated: Oct. 4, 2019 ©</copyright><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.cmu.edu/~zhiqings/img/Zhiqing.png</url>
+      <title>Authors</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/</link>
+    </image>
+    
+    <item>
+      <title>&lt;b&gt;Zhiqing Sun&lt;/b&gt;</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/bzhiqing-sun/b/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/bzhiqing-sun/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Di He</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/di-he/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/di-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haoqin Wang</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/haoqin-wang/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/haoqin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhi-Hong Deng</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/zhi-hong-deng/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/zhi-hong-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhuohan Li*</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/zhuohan-li/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/zhuohan-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zi Lin</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/zi-lin/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/zi-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Dong</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/bin-dong/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/bin-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liwei Wang</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/liwei-wang/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/liwei-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Qin</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/tao-qin/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/tao-qin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tie-Yan Liu</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/tie-yan-liu/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/tie-yan-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiping Lu*</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/yiping-lu/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/yiping-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Feng</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/wei-feng/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/wei-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoran Xu</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/xiaoran-xu/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/xiaoran-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Tang</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/jian-tang/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/jian-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian-Yun Nie</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/jian-yun-nie/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/jian-yun-nie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan Du</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/pan-du/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/pan-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gehui Shen</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/gehui-shen/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/gehui-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhihong Deng</title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/zhihong-deng/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/zhihong-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cs.cmu.edu/~zhiqings/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.cmu.edu/~zhiqings/authors/admin/</guid>
+      <description>&lt;p&gt;Hey there, welcome!&lt;/p&gt;
+
+&lt;p&gt;I am a first-year master student in &lt;a href=&#34;https://www.lti.cs.cmu.edu/&#34; target=&#34;_blank&#34;&gt;Language Technologies Institute&lt;/a&gt;, Carnegie Mellon University.
+Before that, I received my B.S. in Computer Science from &lt;a href=&#34;http://english.pku.edu.cn/&#34; target=&#34;_blank&#34;&gt;Peking University&lt;/a&gt;, advised by Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=tRoAxlsAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Zhi-Hong Deng&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My research interest is machine learning in general, as well as the applications on knowledge graphs, machine translation, and natural language understanding.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
